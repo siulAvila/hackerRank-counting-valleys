@@ -1,0 +1,28 @@
+{
+  "name": "hackerrank-couting-valleys",
+  "version": "1.0.0",
+  "description": "HackerRank challenge: https://www.hackerrank.com/challenges/counting-valleys",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest src/"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/siulAvila/hackerRank-counting-valleys.git"
+  },
+  "keywords": [
+    "hackerRank",
+    "counting-valleys",
+    "js",
+    "tdd"
+  ],
+  "author": "Luis Fernando",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/siulAvila/hackerRank-counting-valleys/issues"
+  },
+  "homepage": "https://github.com/siulAvila/hackerRank-counting-valleys#readme",
+  "dependencies": {
+    "jest": "^27.0.6"
+  }
+}
